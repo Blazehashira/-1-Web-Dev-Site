@@ -68,8 +68,8 @@ P {
 
 .bot-cloud {
   position: absolute;
-  left: 25rem;
-  bottom: 12.5rem;
+  left: 12.25rem;
+  bottom: 15rem;
 }
 
 .btn {
@@ -88,7 +88,7 @@ P {
   padding: 10px 20px 10px 20px;
   border: solid #1f628d 0;
   text-decoration: none;
-  margin: 18.75rem;
+  margin: 10rem;
 }
 
 .btn:hover {
